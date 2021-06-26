@@ -1,0 +1,9 @@
+Design a Parking lot having these criteria.
+1. Ticket would have person name + location + block. - OK
+2. The parking lot should have multiple floors where customers can park their cars. - OK
+3. The parking lot should have multiple entry and exit points. - OK
+4. At entry point they have to pay entry charge. - OK
+5. At exit poing they have to pay on basis of hour they have parked these vehicles. (Every vehicle have different charge.)
+6. For intial hour rate would be high and after that there would be some minimal charge.
+7. For every type of vehicles seat are alloted.  Seat alloted for bigger vehicle can be alloted to smaller vehicle if <80% of seat is empty. - OK
+8. The system should not allow more vehicles than the maximum capacity of the parking lot. - OK
