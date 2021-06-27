@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library Management System/Library Management System.iml" filepath="$PROJECT_DIR$/Library Management System/Library Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parking Lot/Parking Lot.iml" filepath="$PROJECT_DIR$/Parking Lot/Parking Lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack Overflow/Stack Overflow.iml" filepath="$PROJECT_DIR$/Stack Overflow/Stack Overflow.iml" />
+    </modules>
+  </component>
+</project>
